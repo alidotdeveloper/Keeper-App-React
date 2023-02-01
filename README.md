@@ -1,2 +1,2 @@
 # Keeper-app-react
-Created with CodeSandbox
+ This is the simple keeper app build using react 
